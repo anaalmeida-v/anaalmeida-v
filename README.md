@@ -21,6 +21,4 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaalmeida-v&show_icons=true&theme=react)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaalmeida-v&layout=compact&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaalmeida-v&show_icons=true&theme=react) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaalmeida-v&layout=compact&theme=react)
