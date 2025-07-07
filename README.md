@@ -1,9 +1,8 @@
 # 💫 About Me:
 
-👩‍💻 **Frontend Web Developer**  
-⚡ **Tech Content Creator**  
-💼 **Open To Job Opportunities**  
-🌎 [meusite.com](https://meusite.com)
+👩‍💻 **Frontend Web Developer**
+👩 **19 years old**  
+🎓 **Systems Analysis and Development Student**
 
 ---
 
