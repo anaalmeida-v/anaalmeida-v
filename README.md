@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>💻 Frontend Web Developer & 🎓 Systems Analysis and Development Student</em><br>
-  <strong>👩 19 years old | Passionate about building beautiful web experiences</strong>
+  <strong>👩 19 years old</strong>
 </p>
 
 ---
