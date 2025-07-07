@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ℹ️ About Me:
 
 👩‍💻 **Frontend Web Developer**
 👩 **19 years old**  
