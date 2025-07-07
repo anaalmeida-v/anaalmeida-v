@@ -11,7 +11,7 @@
 
 - 🌱 Currently studying **Systems Analysis and Development**
 - 🎯 Focused on **Frontend Development** and **UI/UX**
-- 🌟 Always eager to learn new technologies and improve my skills
+- 🌟 Constantly seeking to expand my knowledge and strengthen my skills!
 
 ---
 
