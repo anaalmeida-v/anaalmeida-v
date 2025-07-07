@@ -1,4 +1,4 @@
-<h1 align="center">✨ Ana Carolina Venâncio ✨</h1>
+<h1 align="center">✨ Ana Carolina de Almeida Venâncio ✨</h1>
 
 <p align="center">
   <em>💻 Frontend Web Developer & 🎓 Systems Analysis and Development Student</em><br>
