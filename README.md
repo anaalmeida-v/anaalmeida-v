@@ -8,10 +8,9 @@
 ---
 
 ## 🪧 About Me
-
-- 🌱 Currently studying **Systems Analysis and Development**
-- 🎯 Focused on **Frontend Development** and **UI/UX**
-- 🌟 Constantly seeking to expand my knowledge and strengthen my skills!
+- 🌱 Technologist in Systems Analysis and Development
+- 💻 Working with Web Development
+- 🎯 Passionate about creating intuitive and functional digital experiences
 
 ---
 
