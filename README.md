@@ -1,4 +1,4 @@
-# Olá, eu sou a Ana Venâncio 👋
+# Olá, eu sou a Ana Almeida 👋
 
 Desenvolvedora Front-End com cerca de 2 anos de experiência, focada na criação de interfaces modernas, responsivas e centradas na experiência do usuário. Sou especialista no ecossistema **React.js**, com domínio em **Hooks**, **Context API** e **Styled Components**.
 
