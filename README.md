@@ -38,7 +38,7 @@ Desenvolvedora Full-Stack com foco em Front-End, dedicada à criação de interf
 #### 🧮 Calculadora Dev (React & CSS Grid)
 Aplicação moderna de calculadora desenvolvida a partir de um protótipo de UI autoral no Figma. O projeto foca no domínio técnico de layouts bidimensionais complexos e reatividade rigorosa de estados.
 - **Techs:** React, Vite, CSS Grid, Space Mono.
-- 🔗 [Acesse o Repositório](https://github.com/seu-usuario/seu-repositorio-da-calculadora) | [Ver Aplicação no Ar](https://seu-link-da-calculadora.vercel.app)
+- 🔗 [Acesse o Repositório](https://github.com/anaalmeida-v/calculadora) | [Ver Aplicação no Ar](https://calculadora-rosy-nine.vercel.app)
 
 ---
 
