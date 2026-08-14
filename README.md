@@ -2,7 +2,7 @@
 
 Desenvolvedora Full-Stack com foco em Front-End, dedicada à criação de interfaces modernas, responsivas e centradas na experiência do usuário. Sou especialista no ecossistema **React.js** e aplicações robustas, dominando ferramentas modernas de estilização e arquitetura de componentes.
 <p align="left">
-  <a href="https://ana-portfolio-three-mu.vercel.app" target="_blank">
+  <a href="[https://ana-portfolio-three-mu.vercel.app](https://ana-portfolio-ivory.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Acesse_meu_Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio no Ar" />
   </a>
 </p>
