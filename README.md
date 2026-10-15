@@ -59,11 +59,11 @@ Aplicação moderna de calculadora desenvolvida a partir de um protótipo de UI 
 
 ### 🚀 Sobre mim
 
-- 💻 Atualmente focada no aprimoramento de aplicações escaláveis com **React**, **Next.js**, **TypeScript** e **Clean Code**[cite: 1.2].
-- ⚙️ Experiência em desenvolvimento full-stack, integrando APIs REST e ecossistemas modernos (Node.js, PHP, PostgreSQL/MySQL)[cite: 1.2].
-- 🤖 Uso estratégico de ferramentas de desenvolvimento assistido por IA (**Claude Code CLI**, **Cursor AI**) para otimização de arquitetura e fluxo de código[cite: 1.2].
-- 🎨 Valorizo a fidelidade visual no código a partir de protótipos de design e jornadas centradas no usuário (UX)[cite: 1.2].
-- 📈 Em constante evolução profissional e aberta a novos desafios em ambientes ágeis[cite: 1.2].
+- 💻 Atualmente focada no aprimoramento de aplicações escaláveis com **React**, **Next.js**, **TypeScript** e **Clean Code**.
+- ⚙️ Experiência em desenvolvimento full-stack, integrando APIs REST e ecossistemas modernos (Node.js, PHP, PostgreSQL/MySQL).
+- 🤖 Uso estratégico de ferramentas de desenvolvimento assistido por IA (**Claude Code CLI**, **Cursor AI**) para otimização de arquitetura e fluxo de código.
+- 🎨 Valorizo a fidelidade visual no código a partir de protótipos de design e jornadas centradas no usuário (UX).
+- 📈 Em constante evolução profissional e aberta a novos desafios em ambientes ágeis.
 
 ---
 
