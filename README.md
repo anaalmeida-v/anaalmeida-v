@@ -55,7 +55,7 @@ Aplicação moderna de calculadora desenvolvida a partir de um protótipo de UI 
 - **Techs:** React, Vite, CSS Grid, Space Mono.
 - 🔗 [Acesse o Repositório](https://github.com/anaalmeida-v/calculadora) | [Ver Aplicação no Ar](https://calculadora-rosy-nine.vercel.app)
 
-#### 🧠 Website Profissional de Psicologia (Dra. Ana Beatriz Weller)
+#### 🧠 Website Profissional de Psicologia (Dra. Beatriz Fuzaro)
 Landing page profissional focada em presença digital, otimização de conversão e responsividade para atendimento clínico online.
 - **Techs:** Wix, Design Responsivo, UI/UX, SEO Local.
 - 🔗 [Acesse o Site](https://www.psicoonlinebeatriz.com.br/)
