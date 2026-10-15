@@ -51,9 +51,14 @@ Desenvolvedora Full-Stack com foco em Front-End, dedicada à criação de interf
 ### 💻 Projetos em Destaque
 
 #### 🧮 Calculadora Dev (React & CSS Grid)
-Aplicação moderna de calculadora desenvolvida a partir de um protótipo de UI autoral no Figma. O projeto foca no domínio técnico de layouts bidimensionais complexos e reatividade rigorosa de estados[cite: 1.2].
+Aplicação moderna de calculadora desenvolvida a partir de um protótipo de UI autoral no Figma. O projeto foca no domínio técnico de layouts bidimensionais complexos e reatividade rigorosa de estados.
 - **Techs:** React, Vite, CSS Grid, Space Mono.
 - 🔗 [Acesse o Repositório](https://github.com/anaalmeida-v/calculadora) | [Ver Aplicação no Ar](https://calculadora-rosy-nine.vercel.app)
+
+#### 🧠 Website Profissional de Psicologia (Dra. Ana Beatriz Weller)
+Landing page profissional focada em presença digital, otimização de conversão e responsividade para atendimento clínico online.
+- **Techs:** Wix, Design Responsivo, UI/UX, SEO Local.
+- 🔗 [Acesse o Site](https://www.psicoonlinebeatriz.com.br/)
 
 ---
 
